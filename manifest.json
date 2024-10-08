@@ -1,0 +1,17 @@
+{
+    "background_color": "#ffffff",
+    "dir": "ltr",
+    "display": "standalone",
+    "name": "tricare-west-mobile-dev.powerappsportals",
+    "orientation": "any",
+    "scope": "/",
+    "short_name": "tricare-west-mobile-dev.powerappsportals",
+    "start_url": "/",
+    "theme_color": "#ffffff",
+    "icons": [
+        {
+            "src": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico"
+        }
+    ],
+    "id": "tricare-west-mobile-dev.powerappsportals"
+}
