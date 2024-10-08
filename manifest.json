@@ -1,17 +1,23 @@
 {
-    "background_color": "#ffffff",
-    "dir": "ltr",
-    "display": "standalone",
-    "name": "tricare-west-mobile-dev.powerappsportals",
-    "orientation": "any",
-    "scope": "/",
-    "short_name": "tricare-west-mobile-dev.powerappsportals",
+    "name": "Tricare West Mobile",
+    "short_name": "Tricare",
     "start_url": "/",
-    "theme_color": "#ffffff",
     "icons": [
         {
-            "src": "https://aadcdn.msauth.net/shared/1.0/content/images/favicon_a_eupayfgghqiai7k9sol6lg2.ico"
+            "src": "https://cdn.glitch.com/f0fb25ee-b555-42d8-9c28-8854e91ed3d0%2Fandroid-chrome-192x192.png?v=1588502697003",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "https://cdn.glitch.com/f0fb25ee-b555-42d8-9c28-8854e91ed3d0%2Fandroid-chrome-512x512.png?v=1588502697802",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
     ],
-    "id": "tricare-west-mobile-dev.powerappsportals"
+    "theme_color": "#e0ebeb",
+    "background_color": "#e0ebeb",
+    "display": "standalone",
+    "orientation": "portrait"
 }
